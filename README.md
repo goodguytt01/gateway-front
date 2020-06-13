@@ -9,3 +9,6 @@
 
 5.采用jquery seed作为原始框架
 
+6.网关依赖后端工程地址
+
+https://github.com/goodguytt01/gateway-backend
